@@ -16,6 +16,7 @@ Spring Boot
 Maven
 Docker
 Render
+Codex
 REST APIs
 ✨ Features
 Current Features
